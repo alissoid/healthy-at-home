@@ -1,5 +1,5 @@
 # About the project
-This tiny website was built as my iProject project.
+This tiny website was built as my iProject product.
 
 # Built with
 * [ReactJS](tailwindcss.com)
